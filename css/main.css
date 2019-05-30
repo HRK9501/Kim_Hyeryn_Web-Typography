@@ -1,0 +1,116 @@
+body { font-family: 'Open Sans Condensed', Helvetica, Arial, sans-serif; }
+
+#container {
+    width: 1200px;
+	margin: 0 auto;
+}
+
+h1 {
+	font-weight: 600;
+	font-size: 93px;
+	color: #000000;
+	margin: auto 50px;	
+}
+
+h2 {
+	font-weight: 700;
+    font-size: 35px;
+    padding-top: 50px;
+    margin: 0 50px;
+	color: #000000;
+}
+
+p { 
+	color: #000000;
+	font-size: 22px;
+    font-weight: 200;
+    line-height: 33px;
+    margin: 15px 50px;
+}
+
+.drop-cap {
+	font-size: 100px;
+	font-weight: 400;
+	line-height: 70px;
+	float: left;
+    margin: 5px 10px 0 0;
+    color: #ffffff;
+}
+
+.header {
+    margin: 0;
+}
+
+.TRAA {
+    width: 1200px;
+    height: 590px;
+    background-color: #a9ce59;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.TRAA-text {
+    width: 700px;
+    height: 497px;
+    padding: 50px 0;
+}
+
+
+
+
+.TRAA-work {
+    width: 1200px;
+    height: 1500px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.TRAA-works-img {
+    width: 550px;
+    margin-top: 200px;
+}
+
+.TRAA-works-img img {
+    margin-bottom: 97px;
+}
+
+.TRAA-works-right {
+    margin: 200px 0;
+}
+
+.TRAA-works-text {
+    width: 600px;
+    height: 830px;
+    background-color: #a9ce59;
+}
+
+.california {
+    margin-top: 20px;
+}
+
+.rainbow {
+    margin: 200px 0;
+    width: 1200px;
+    height: 1062px;
+}
+
+
+
+
+.rainbow-text {
+    width: 1200px;
+    height: 550px;
+    background-color: #a9ce59;
+}
+
+.rainbow-img {
+    width: 1200px;
+    height: 525px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
